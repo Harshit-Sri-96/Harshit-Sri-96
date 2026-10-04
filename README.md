@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Harshit
 
-<!--
-**Harshit-Sri-96/Harshit-Sri-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+📊 Aspiring Data Analyst  
+💻 Currently learning Python, SQL and Power BI
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Power BI
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
+
+## 📌 Projects
+
+### 📊 Blinkit Sales Analysis
+Power BI dashboard for sales analysis and data visualization.
+
+### 🐍 Library Management System
+Python-based library management system using JSON and file handling.
+
+## 🎯 Currently Learning
+
+- Data Analytics
+- SQL
+- Power BI
+- Python
+
+## 📫 Connect with me
+
+LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_LINK)
